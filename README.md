@@ -4,4 +4,5 @@
 
 * **윤연정:** https://github.com/yunyeonjeong
 * **이지은:** https://github.com/jieun822
+* **정희경:** https://github.com/JungHeekyung
 
